@@ -6,7 +6,7 @@ strawberries
 apples
 
 MEAT
-
+sausages
 
 DAIRY
 
