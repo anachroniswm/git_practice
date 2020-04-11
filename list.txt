@@ -7,6 +7,11 @@ apples
 
 MEAT
 sausages
+bacon
+lamb
+beef
+pork
+rabbit
 
 DAIRY
 
